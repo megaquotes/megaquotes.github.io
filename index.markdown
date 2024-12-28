@@ -16,5 +16,5 @@ permalink: /
 
 ## Getting started
 {: .note }
-Take a look around. This is structured similar to a companies internal knowledge base
+Take a look around. Find some quotes. Read some things.
 

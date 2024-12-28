@@ -1,11 +1,15 @@
 import os
 from datetime import datetime
+import re
 
 # Function to create a Jekyll page from a quote
 def write_quote_to_jekyll_page(subject, quote, author):
     # Get current date in the format required by Jekyll (_posts/YYYY-MM-DD-title.md)
     date_str = datetime.now().strftime("%Y-%m-%d")
-    title = f"{author} - {quote[:30].rsplit(' ', 1)[0].rstrip()}"
+    title = f"{author} - {quote[:40].rsplit(' ', 1)[0].rstrip()}"
+    pattern=pattern = r'[^a-zA-ZáéíóúÁÉÍÓÚñÑ\s-]'
+    pattern=r'[^a-zA-Z0-9\s\-_À-ÿ\u0100-\u017F\u0400-\u04FF]'
+    title = re.sub(pattern, '', title)
     filename = f"{date_str}-{title}.md"  # Format the filename in Jekyll format
     
     # Create the content for the Jekyll page
@@ -82,7 +86,7 @@ parent: {subject}
 permalink: /{subject}/authors/{author_name.replace(" ", "-")}/
 ---
 
-Welcome to the page of {author_name}! Here you can find their quotes and teachings.
+Welcome to the page of {author_name}! Here you can find their quotes.
 """
 
     # Write the content to the file
