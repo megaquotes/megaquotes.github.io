@@ -1,37 +1,233 @@
 {"0": {
-    "doc": "About",
-    "title": "About",
-    "content": "Good Luck. ",
-    "url": "/about/",
-    
-    "relUrl": "/about/"
-  },"1": {
-    "doc": "Quotes",
-    "title": "Blog",
-    "content": "Welcome to my blog! Here are all my posts: . | Resilience - December 15, 2024 | . ",
-    "url": "/blog/#blog",
-    
-    "relUrl": "/blog/#blog"
-  },"2": {
-    "doc": "Quotes",
-    "title": "Quotes",
-    "content": " ",
-    "url": "/blog/",
-    
-    "relUrl": "/blog/"
-  },"3": {
     "doc": "Home",
     "title": "Getting started",
     "content": "Take a look around. This is structured similar to a companies internal knowledge base . ",
     "url": "/#getting-started",
     
     "relUrl": "/#getting-started"
-  },"4": {
+  },"1": {
     "doc": "Home",
     "title": "Home",
     "content": ". ",
     "url": "/",
     
     "relUrl": "/"
+  },"2": {
+    "doc": "Margaret Hamilton",
+    "title": "Margaret Hamilton",
+    "content": "Welcome to the page of Margaret Hamilton! Here you can find their quotes and teachings. ",
+    "url": "/computers/authors/Margaret-Hamilton/",
+    
+    "relUrl": "/computers/authors/Margaret-Hamilton/"
+  },"3": {
+    "doc": "Ada Lovelace",
+    "title": "Ada Lovelace",
+    "content": "Welcome to the page of Ada Lovelace! Here you can find their quotes and teachings. ",
+    "url": "/computers/authors/Ada-Lovelace/",
+    
+    "relUrl": "/computers/authors/Ada-Lovelace/"
+  },"4": {
+    "doc": "computers",
+    "title": "computers",
+    "content": "Welcome to the page of computers . ",
+    "url": "/computers",
+    
+    "relUrl": "/computers"
+  },"5": {
+    "doc": "Jane Goodall",
+    "title": "Jane Goodall",
+    "content": "Welcome to the page of Jane Goodall! Here you can find their quotes and teachings. ",
+    "url": "/science/authors/Jane-Goodall/",
+    
+    "relUrl": "/science/authors/Jane-Goodall/"
+  },"6": {
+    "doc": "Marie Curie",
+    "title": "Marie Curie",
+    "content": "Welcome to the page of Marie Curie! Here you can find their quotes and teachings. ",
+    "url": "/science/authors/Marie-Curie/",
+    
+    "relUrl": "/science/authors/Marie-Curie/"
+  },"7": {
+    "doc": "Stephen Hawking",
+    "title": "Stephen Hawking",
+    "content": "Welcome to the page of Stephen Hawking! Here you can find their quotes and teachings. ",
+    "url": "/science/authors/Stephen-Hawking/",
+    
+    "relUrl": "/science/authors/Stephen-Hawking/"
+  },"8": {
+    "doc": "Carl Sagan",
+    "title": "Carl Sagan",
+    "content": "Welcome to the page of Carl Sagan! Here you can find their quotes and teachings. ",
+    "url": "/science/authors/Carl-Sagan/",
+    
+    "relUrl": "/science/authors/Carl-Sagan/"
+  },"9": {
+    "doc": "science",
+    "title": "science",
+    "content": "Welcome to the page of science . ",
+    "url": "/science",
+    
+    "relUrl": "/science"
+  },"10": {
+    "doc": "Henry David Thoreau",
+    "title": "Henry David Thoreau",
+    "content": "Welcome to the page of Henry David Thoreau! Here you can find their quotes and teachings. ",
+    "url": "/nature/authors/Henry-David-Thoreau/",
+    
+    "relUrl": "/nature/authors/Henry-David-Thoreau/"
+  },"11": {
+    "doc": "John Muir",
+    "title": "John Muir",
+    "content": "Welcome to the page of John Muir! Here you can find their quotes and teachings. ",
+    "url": "/nature/authors/John-Muir/",
+    
+    "relUrl": "/nature/authors/John-Muir/"
+  },"12": {
+    "doc": "Rachel Carson",
+    "title": "Rachel Carson",
+    "content": "Welcome to the page of Rachel Carson! Here you can find their quotes and teachings. ",
+    "url": "/nature/authors/Rachel-Carson/",
+    
+    "relUrl": "/nature/authors/Rachel-Carson/"
+  },"13": {
+    "doc": "David Attenborough",
+    "title": "David Attenborough",
+    "content": "Welcome to the page of David Attenborough! Here you can find their quotes and teachings. ",
+    "url": "/nature/authors/David-Attenborough/",
+    
+    "relUrl": "/nature/authors/David-Attenborough/"
+  },"14": {
+    "doc": "nature",
+    "title": "nature",
+    "content": "Welcome to the page of nature . ",
+    "url": "/nature",
+    
+    "relUrl": "/nature"
+  },"15": {
+    "doc": "Angela Merkel",
+    "title": "Angela Merkel",
+    "content": "Welcome to the page of Angela Merkel! Here you can find their quotes and teachings. ",
+    "url": "/politics/authors/Angela-Merkel/",
+    
+    "relUrl": "/politics/authors/Angela-Merkel/"
+  },"16": {
+    "doc": "Noam Chomsky",
+    "title": "Noam Chomsky",
+    "content": "Welcome to the page of Noam Chomsky! Here you can find their quotes and teachings. ",
+    "url": "/politics/authors/Noam-Chomsky/",
+    
+    "relUrl": "/politics/authors/Noam-Chomsky/"
+  },"17": {
+    "doc": "Barack Obama",
+    "title": "Barack Obama",
+    "content": "Welcome to the page of Barack Obama! Here you can find their quotes and teachings. ",
+    "url": "/politics/authors/Barack-Obama/",
+    
+    "relUrl": "/politics/authors/Barack-Obama/"
+  },"18": {
+    "doc": "Hillary Clinton",
+    "title": "Hillary Clinton",
+    "content": "Welcome to the page of Hillary Clinton! Here you can find their quotes and teachings. ",
+    "url": "/politics/authors/Hillary-Clinton/",
+    
+    "relUrl": "/politics/authors/Hillary-Clinton/"
+  },"19": {
+    "doc": "politics",
+    "title": "politics",
+    "content": "Welcome to the page of politics . ",
+    "url": "/politics",
+    
+    "relUrl": "/politics"
+  },"20": {
+    "doc": "Pema Chödrön",
+    "title": "Pema Chödrön",
+    "content": "Welcome to the page of Pema Chödrön! Here you can find their quotes and teachings. ",
+    "url": "/buddhism/authors/Pema-Ch%C3%B6dr%C3%B6n/",
+    
+    "relUrl": "/buddhism/authors/Pema-Chödrön/"
+  },"21": {
+    "doc": "Thich Nhat Hanh",
+    "title": "Thich Nhat Hanh",
+    "content": "Welcome to the page of Thich Nhat Hanh! Here you can find their quotes and teachings. ",
+    "url": "/buddhism/authors/Thich-Nhat-Hanh/",
+    
+    "relUrl": "/buddhism/authors/Thich-Nhat-Hanh/"
+  },"22": {
+    "doc": "Jack Kornfield",
+    "title": "Jack Kornfield",
+    "content": "Welcome to the page of Jack Kornfield! Here you can find their quotes and teachings. ",
+    "url": "/buddhism/authors/Jack-Kornfield/",
+    
+    "relUrl": "/buddhism/authors/Jack-Kornfield/"
+  },"23": {
+    "doc": "Dalai Lama",
+    "title": "Dalai Lama",
+    "content": "Welcome to the page of Dalai Lama! Here you can find their quotes and teachings. ",
+    "url": "/buddhism/authors/Dalai-Lama/",
+    
+    "relUrl": "/buddhism/authors/Dalai-Lama/"
+  },"24": {
+    "doc": "buddhism",
+    "title": "buddhism",
+    "content": "Welcome to the page of buddhism . ",
+    "url": "/buddhism",
+    
+    "relUrl": "/buddhism"
+  },"25": {
+    "doc": "Wendell Berry",
+    "title": "Wendell Berry",
+    "content": "Welcome to the page of Wendell Berry! Here you can find their quotes and teachings. ",
+    "url": "/farming/authors/Wendell-Berry/",
+    
+    "relUrl": "/farming/authors/Wendell-Berry/"
+  },"26": {
+    "doc": "Barbara Kingsolver",
+    "title": "Barbara Kingsolver",
+    "content": "Welcome to the page of Barbara Kingsolver! Here you can find their quotes and teachings. ",
+    "url": "/farming/authors/Barbara-Kingsolver/",
+    
+    "relUrl": "/farming/authors/Barbara-Kingsolver/"
+  },"27": {
+    "doc": "Joel Salatin",
+    "title": "Joel Salatin",
+    "content": "Welcome to the page of Joel Salatin! Here you can find their quotes and teachings. ",
+    "url": "/farming/authors/Joel-Salatin/",
+    
+    "relUrl": "/farming/authors/Joel-Salatin/"
+  },"28": {
+    "doc": "Michael Pollan",
+    "title": "Michael Pollan",
+    "content": "Welcome to the page of Michael Pollan! Here you can find their quotes and teachings. ",
+    "url": "/farming/authors/Michael-Pollan/",
+    
+    "relUrl": "/farming/authors/Michael-Pollan/"
+  },"29": {
+    "doc": "farming",
+    "title": "farming",
+    "content": "Welcome to the page of farming . ",
+    "url": "/farming",
+    
+    "relUrl": "/farming"
+  },"30": {
+    "doc": "Alan Turing",
+    "title": "Alan Turing",
+    "content": "Welcome to the page of Alan Turing! Here you can find their quotes and teachings. ",
+    "url": "/computers/authors/Alan-Turing/",
+    
+    "relUrl": "/computers/authors/Alan-Turing/"
+  },"31": {
+    "doc": "Bill Gates",
+    "title": "Bill Gates",
+    "content": "Welcome to the page of Bill Gates! Here you can find their quotes and teachings. ",
+    "url": "/computers/authors/Bill-Gates/",
+    
+    "relUrl": "/computers/authors/Bill-Gates/"
+  },"32": {
+    "doc": "Quotes",
+    "title": "Quotes",
+    "content": ". | Stephen Hawking - The greatest enemy of - December 27, 2024 | Stephen Hawking - Intelligence is the ability - December 27, 2024 | Marie Curie - One never notices what has - December 27, 2024 | Marie Curie - Nothing in life is to be - December 27, 2024 | Jane Goodall - What you do makes a - December 27, 2024 | Jane Goodall - The greatest danger to our - December 27, 2024 | Carl Sagan - The cosmos is within us. We - December 27, 2024 | Carl Sagan - Somewhere, something - December 27, 2024 | Noam Chomsky - The responsibility of - December 27, 2024 | Noam Chomsky - In a crisis, the initiative - December 27, 2024 | Hillary Clinton - “You have to be willing to - December 27, 2024 | Hillary Clinton - “I believe that the rights of - December 27, 2024 | Barack Obama - The future rewards those who - December 27, 2024 | Barack Obama - Change will not come if we - December 27, 2024 | Angela Merkel - We need to invest more in - December 27, 2024 | Angela Merkel - The future belongs to those - December 27, 2024 | Rachel Carson - The human race is a multitude - December 27, 2024 | Rachel Carson - In every outthrust headland, - December 27, 2024 | John Muir - The mountains are calling and - December 27, 2024 | John Muir - In every walk with nature one - December 27, 2024 | Henry David Thoreau - The price of anything is the - December 27, 2024 | Henry David Thoreau - I learned this, at least, by - December 27, 2024 | David Attenborough - The truth is: the natural - December 27, 2024 | David Attenborough - The greatest gift you can - December 27, 2024 | Wendell Berry - What we need is not more - December 27, 2024 | Wendell Berry - The soil is the great - December 27, 2024 | Michael Pollan - The garden suggests there - December 27, 2024 | Michael Pollan - Eating is an agricultural - December 27, 2024 | Joel Salatin - You can't be on both sides of - December 27, 2024 | Joel Salatin - Farming is not just about - December 27, 2024 | Barbara Kingsolver - The future will be a - December 27, 2024 | Barbara Kingsolver - Life is a continued - December 27, 2024 | Margaret Hamilton - We need to keep working on - December 27, 2024 | Margaret Hamilton - There's no magic in it. The - December 27, 2024 | Bill Gates - Your most unhappy customers - December 27, 2024 | Bill Gates - It's fine to celebrate - December 27, 2024 | Alan Turing - We can only see a short - December 27, 2024 | Alan Turing - A computer would deserve to - December 27, 2024 | Ada Lovelace - The Analytical Engine does - December 27, 2024 | Ada Lovelace - That brain of mine is - December 27, 2024 | Thich Nhat Hanh - The present moment is filled - December 27, 2024 | Thich Nhat Hanh - Feelings come and go like - December 27, 2024 | Pema Chödrön - The only way to make sense - December 27, 2024 | Pema Chödrön - The most fundamental - December 27, 2024 | Jack Kornfield - The path of awakening is not - December 27, 2024 | Jack Kornfield - If your compassion does not - December 27, 2024 | Dalai Lama - Love and compassion are - December 27, 2024 | Dalai Lama - Happiness is not something - December 27, 2024 | . ",
+    "url": "/quotes/",
+    
+    "relUrl": "/quotes/"
   }
 }

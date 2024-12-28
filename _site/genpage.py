@@ -2,39 +2,90 @@ import os
 from datetime import datetime
 
 # Function to create a Jekyll page from a quote
-def write_quote_to_jekyll_page(quote, author, output_directory="_posts"):
+def write_quote_to_jekyll_page(subject, quote, author):
     # Get current date in the format required by Jekyll (_posts/YYYY-MM-DD-title.md)
     date_str = datetime.now().strftime("%Y-%m-%d")
-    title = f"{author}-{quote[:10]}"  # Use author and the first 10 characters of the quote for the title
+    title = f"{author} - {quote[:30].rsplit(' ', 1)[0].rstrip()}"
     filename = f"{date_str}-{title}.md"  # Format the filename in Jekyll format
     
     # Create the content for the Jekyll page
     content = f"""---
 layout: post
-title: "{author} - {quote[:10]}"
+title: "{title}"
 date: {date_str} 12:00:00 -0000
 author: {author}
 quote: "{quote}"
+permalink: /:categories/:title
 ---
 
 {quote}
 
 - {author}
 """
+    
+    output_dir="quotes/"+subject+"/"+author+"/_posts"
+    posts_dir = output_dir.replace(" ", "-")
 
     # Ensure the output directory exists
-    os.makedirs(output_directory, exist_ok=True)
+    os.makedirs(posts_dir, exist_ok=True)
     
     # Write the content to a markdown file
-    file_path = os.path.join(output_directory, filename)
+    file_path = os.path.join(posts_dir, filename)
     with open(file_path, "w") as file:
         file.write(content)
     
     print(f"Quote written to {file_path}")
-"""
-# Example usage
-quote = "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
-author = "Buddha"
 
-write_quote_to_jekyll_page(quote, author)
+
+
+def create_subject_index(subject):
+    output_dir="quotes/"+subject
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Define the file path
+    file_path = os.path.join(output_dir, "index.md")
+
+    # Create the content for the index.md file
+    content = f"""---
+title: {subject}
+subject: "{subject}"
+permalink: /{subject}
+---
+
+Welcome to the page of {subject}
 """
+
+    # Write the content to the file
+    with open(file_path, "w") as file:
+        file.write(content)
+
+    print(f"subject page created: {file_path}")
+  
+
+def create_author_index(author_name, subject, description="No Description" ):
+    # Ensure the output directory exists
+    output_dir="quotes/"+subject+"/"+author_name
+    author_dir = output_dir.replace(" ", "-")
+    os.makedirs(author_dir, exist_ok=True)
+
+    # Define the file path
+    file_path = os.path.join(author_dir, "index.md")
+
+    # Create the content for the index.md file
+    content = f"""---
+layout: author
+title: {author_name}
+description: "{description}"
+subject: "{subject}"
+parent: {subject}
+permalink: /{subject}/authors/{author_name.replace(" ", "-")}/
+---
+
+Welcome to the page of {author_name}! Here you can find their quotes and teachings.
+"""
+
+    # Write the content to the file
+    with open(file_path, "w") as file:
+        file.write(content)
+
+    print(f"Author page created: {file_path}")
