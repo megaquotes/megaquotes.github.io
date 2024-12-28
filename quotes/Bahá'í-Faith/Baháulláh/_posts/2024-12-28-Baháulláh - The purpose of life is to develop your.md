@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Baháulláh - The purpose of life is to develop your"
+date: 2024-12-28 12:00:00 -0000
+author: Baháulláh
+quote: "The purpose of life is to develop your capacity to love and to serve others."
+subject: Bahá'í Faith
+permalink: /Bahá'í Faith/Baháulláh/Baháulláh - The purpose of life is to develop your
+---
+
+The purpose of life is to develop your capacity to love and to serve others.
+
+- Baháulláh

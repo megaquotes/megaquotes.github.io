@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Eckhart Tolle - You find peace not by rearranging the"
+date: 2024-12-28 12:00:00 -0000
+author: Eckhart Tolle
+quote: "You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."
+subject: New Age spirituality
+permalink: /New Age spirituality/Eckhart Tolle/Eckhart Tolle - You find peace not by rearranging the
+---
+
+You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.
+
+- Eckhart Tolle

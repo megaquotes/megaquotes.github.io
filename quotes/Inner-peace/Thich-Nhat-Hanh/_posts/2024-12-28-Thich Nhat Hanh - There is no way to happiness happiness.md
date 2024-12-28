@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Thich Nhat Hanh - There is no way to happiness happiness"
+date: 2024-12-28 12:00:00 -0000
+author: Thich Nhat Hanh
+quote: "There is no way to happiness: happiness is the way."
+subject: Inner peace
+permalink: /Inner peace/Thich Nhat Hanh/Thich Nhat Hanh - There is no way to happiness happiness
+---
+
+There is no way to happiness: happiness is the way.
+
+- Thich Nhat Hanh
