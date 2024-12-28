@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Thomas Edison
-description: "An inventor and businessman, Edison is famous for his determination and perseverance in the face of thousands of failures, leading to the invention of the electric light bulb."
+description: "An American inventor and businessman known for his determination and prolific contributions to technology, famously stating, 'Genius is one percent inspiration and ninety-nine percent perspiration'."
 subject: "Determination"
 parent: Determination
 permalink: /Determination/authors/Thomas-Edison/

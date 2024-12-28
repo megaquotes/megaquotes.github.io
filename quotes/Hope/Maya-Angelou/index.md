@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Maya Angelou
-description: "An acclaimed poet and civil rights activist who frequently wrote about hope, resilience, and the human spirit in her works."
+description: "A celebrated poet and civil rights activist, Angelou expressed themes of hope consistently throughout her works, inspiring many with her messages of resilience."
 subject: "Hope"
 parent: Hope
 permalink: /Hope/authors/Maya-Angelou/

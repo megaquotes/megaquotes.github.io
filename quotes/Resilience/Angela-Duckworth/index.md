@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Angela Duckworth
-description: "A psychologist and author of 'Grit: The Power of Passion and Perseverance', Duckworth discusses resilience in the context of long-term goals and the ability to persist through challenges."
+description: "A psychologist known for her research on grit and resilience, Duckworth explores how perseverance and passion contribute to success."
 subject: "Resilience"
 parent: Resilience
 permalink: /Resilience/authors/Angela-Duckworth/

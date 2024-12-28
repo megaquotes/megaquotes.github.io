@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Malala Yousafzai
-description: "An education activist and Nobel Prize laureate, Yousafzai is known for her determination in advocating for girls' education, overcoming challenges after surviving an assassination attempt."
+description: "A Pakistani activist for girls' education and the youngest Nobel Prize laureate, known for her determination in advocating for education despite facing extreme adversity."
 subject: "Determination"
 parent: Determination
 permalink: /Determination/authors/Malala-Yousafzai/

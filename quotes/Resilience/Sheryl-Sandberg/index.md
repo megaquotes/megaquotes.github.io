@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Sheryl Sandberg
-description: "COO of Facebook and author of 'Option B', Sandberg speaks about resilience in the face of personal tragedy and the importance of support systems and personal strengths in overcoming loss."
+description: "Facebook COO and author of 'Option B', Sandberg shares her personal journey of resilience following the sudden death of her husband and promotes the idea of building resilience in the face of loss."
 subject: "Resilience"
 parent: Resilience
 permalink: /Resilience/authors/Sheryl-Sandberg/

@@ -1,0 +1,10 @@
+---
+layout: author
+title: Brene Brown
+description: "A research professor and author known for her work on vulnerability, courage, and resilience, emphasizing the importance of grit in personal growth."
+subject: "Grit and resolve"
+parent: Grit and resolve
+permalink: /Grit and resolve/authors/Brene-Brown/
+---
+
+Welcome to the page of Brene Brown! Here you can find their quotes.

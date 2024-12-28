@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Brene Brown
-description: "A research professor and author whose works on vulnerability and courage highlight the importance of hope in personal development."
+description: "A research professor and author, Brown discusses hope as a critical element in her studies on vulnerability and courage, particularly in her TED talks and books."
 subject: "Hope"
 parent: Hope
 permalink: /Hope/authors/Brene-Brown/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Oprah Winfrey
-description: "A media executive and philanthropist, Winfrey's rise from poverty to become a successful talk show host and businesswoman is rooted in her determination to overcome obstacles."
+description: "Media executive, talk show host, and philanthropist who frequently shares her personal journey of determination and overcoming obstacles to inspire others."
 subject: "Determination"
 parent: Determination
 permalink: /Determination/authors/Oprah-Winfrey/

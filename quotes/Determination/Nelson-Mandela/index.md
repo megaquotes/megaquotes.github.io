@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Nelson Mandela
-description: "A former president of South Africa, Mandela showed remarkable determination in fighting against apartheid and promoting equality, enduring 27 years in prison for his beliefs."
+description: "The former President of South Africa and anti-apartheid revolutionary whose life story exemplifies determination and resilience in the face of adversity."
 subject: "Determination"
 parent: Determination
 permalink: /Determination/authors/Nelson-Mandela/

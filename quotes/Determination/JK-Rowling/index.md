@@ -1,7 +1,7 @@
 ---
 layout: author
 title: JK Rowling
-description: "The author of the Harry Potter series, Rowling faced numerous rejections and personal hardships, demonstrating determination in pursuing her dream of becoming a published writer."
+description: "Author of the 'Harry Potter' series, she has often spoken about her struggles and the determination it took to achieve success after experiencing significant hardships."
 subject: "Determination"
 parent: Determination
 permalink: /Determination/authors/JK-Rowling/

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Thomas Edison - Genius is one percent inspiration and"
+date: 2024-12-28 12:00:00 -0000
+author: Thomas Edison
+quote: "Genius is one percent inspiration and ninety-nine percent perspiration."
+subject: Hard work
+permalink: /Hard work/Thomas Edison/Thomas Edison - Genius is one percent inspiration and
+---
+
+Genius is one percent inspiration and ninety-nine percent perspiration.
+
+- Thomas Edison
