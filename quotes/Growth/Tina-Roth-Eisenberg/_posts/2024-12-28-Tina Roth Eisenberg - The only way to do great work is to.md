@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Tina Roth Eisenberg - The only way to do great work is to"
+date: 2024-12-28 12:00:00 -0000
+author: Tina Roth Eisenberg
+quote: "The only way to do great work is to love what you do."
+subject: Growth
+permalink: /Growth/Tina Roth Eisenberg/Tina Roth Eisenberg - The only way to do great work is to
+---
+
+The only way to do great work is to love what you do.
+
+- Tina Roth Eisenberg
