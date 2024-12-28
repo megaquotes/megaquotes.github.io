@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Nelson Mandela
-description: "A key figure in the struggle against apartheid in South Africa, Mandela's life and speeches are imbued with messages of hope and perseverance despite overwhelming odds."
+description: "The former President of South Africa and anti-apartheid revolutionary who spoke extensively on hope, freedom, and reconciliation."
 subject: "Hope"
 parent: Hope
 permalink: /Hope/authors/Nelson-Mandela/

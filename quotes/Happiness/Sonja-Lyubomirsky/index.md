@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Sonja Lyubomirsky
-description: "Psychologist and author known for her research on happiness, well-being, and the benefits of positive activities."
+description: "An expert in the science of happiness, she has written extensively about practices that can enhance happiness and well-being."
 subject: "Happiness"
 parent: Happiness
 permalink: /Happiness/authors/Sonja-Lyubomirsky/

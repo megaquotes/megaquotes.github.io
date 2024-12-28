@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Thich Nhat Hanh
-description: "Renowned Zen master and author who emphasizes mindfulness as a practice for finding balance in life."
+description: "A Vietnamese Zen master and peace activist, Hanh's teachings promote mindfulness and balance in daily living by connecting breath, body, and mind."
 subject: "Balance"
 parent: Balance
 permalink: /Balance/authors/Thich-Nhat-Hanh/

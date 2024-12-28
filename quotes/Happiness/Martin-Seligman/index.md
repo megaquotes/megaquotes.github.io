@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Martin Seligman
-description: "Psychologist and founder of positive psychology, who has conducted extensive research on happiness and well-being."
+description: "Often referred to as the father of positive psychology, Seligman has researched happiness and well-being extensively, promoting the idea that happiness can be cultivated."
 subject: "Happiness"
 parent: Happiness
 permalink: /Happiness/authors/Martin-Seligman/

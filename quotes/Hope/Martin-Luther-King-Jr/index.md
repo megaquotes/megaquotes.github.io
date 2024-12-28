@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Martin Luther King Jr
-description: "An American civil rights leader, King often spoke about hope in his speeches, emphasizing a vision of a better future and equality for all people."
+description: "A civil rights leader known for his powerful speeches about hope and equality, including his famous 'I Have a Dream' speech."
 subject: "Hope"
 parent: Hope
 permalink: /Hope/authors/Martin-Luther-King-Jr/

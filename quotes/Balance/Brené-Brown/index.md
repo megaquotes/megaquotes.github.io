@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Brené Brown
-description: "Research professor and author who speaks on the importance of vulnerability and balance in achieving emotional health and resilience."
+description: "A research professor whose work focuses on courage, vulnerability, and empathy, Brown often discusses the balance between vulnerability and strength in personal and professional contexts."
 subject: "Balance"
 parent: Balance
 permalink: /Balance/authors/Brené-Brown/

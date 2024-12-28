@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Rick Warren
-description: "An American pastor and author of 'The Purpose Driven Life', he emphasizes the role of faith in finding purpose and meaning in life."
+description: "An American pastor and author of 'The Purpose Driven Life', which discusses faith, purpose, and the role of belief in one's life."
 subject: "Faith"
 parent: Faith
 permalink: /Faith/authors/Rick-Warren/

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Desmond Tutu
-description: "A South African Anglican bishop and social rights activist, Tutu has spoken extensively about hope in the context of reconciliation and healing in post-apartheid South Africa."
+description: "A South African Anglican bishop and social rights activist known for his work in the anti-apartheid movement and his messages of hope and reconciliation."
 subject: "Hope"
 parent: Hope
 permalink: /Hope/authors/Desmond-Tutu/

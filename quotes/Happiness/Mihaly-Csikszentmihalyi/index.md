@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Mihaly Csikszentmihalyi
-description: "Psychologist known for his concept of 'flow', which describes a state of deep enjoyment and satisfaction that contributes to happiness."
+description: "Known for his concept of 'flow', Csikszentmihalyi explored the state of being fully immersed in activities, contributing to the understanding of happiness through engagement."
 subject: "Happiness"
 parent: Happiness
 permalink: /Happiness/authors/Mihaly-Csikszentmihalyi/

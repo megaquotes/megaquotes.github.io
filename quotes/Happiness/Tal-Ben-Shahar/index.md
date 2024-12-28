@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Tal Ben-Shahar
-description: "Former Harvard teacher and author of 'Happier', focusing on the science of happiness and personal well-being."
+description: "A former Harvard professor, Ben-Shahar teaches courses on happiness and has written books on how to achieve greater life satisfaction."
 subject: "Happiness"
 parent: Happiness
 permalink: /Happiness/authors/Tal-Ben-Shahar/

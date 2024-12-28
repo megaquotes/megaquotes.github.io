@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Dan Gilbert
-description: "Psychologist and author of 'Stumbling on Happiness', exploring how people mispredict what will make them happy."
+description: "A psychologist who studies happiness and decision-making, Gilbert is known for his insights into how we mispredict what will make us happy."
 subject: "Happiness"
 parent: Happiness
 permalink: /Happiness/authors/Dan-Gilbert/

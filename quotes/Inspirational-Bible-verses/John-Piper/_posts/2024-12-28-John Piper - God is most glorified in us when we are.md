@@ -1,0 +1,13 @@
+---
+layout: post
+title: "John Piper - God is most glorified in us when we are"
+date: 2024-12-28 12:00:00 -0000
+author: John Piper
+quote: "God is most glorified in us when we are most satisfied in Him."
+subject: Inspirational Bible verses
+permalink: /Inspirational Bible verses/John Piper/John Piper - God is most glorified in us when we are
+---
+
+God is most glorified in us when we are most satisfied in Him.
+
+- John Piper

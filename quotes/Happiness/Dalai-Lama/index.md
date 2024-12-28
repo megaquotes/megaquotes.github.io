@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Dalai Lama
-description: "The spiritual leader of Tibetan Buddhism, known for his teachings on compassion, happiness, and the importance of mental peace."
+description: "The spiritual leader of Tibetan Buddhism and a prominent advocate for compassion and happiness, he emphasizes the importance of inner peace and altruism."
 subject: "Happiness"
 parent: Happiness
 permalink: /Happiness/authors/Dalai-Lama/

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Brene Brown - Shame derives its power from being"
+date: 2024-12-28 12:00:00 -0000
+author: Brene Brown
+quote: "Shame derives its power from being unspeakable. That’s why it loves secrecy. That’s why it loves the silence."
+subject: Risk-taking
+permalink: /Risk-taking/Brene Brown/Brene Brown - Shame derives its power from being
+---
+
+Shame derives its power from being unspeakable. That’s why it loves secrecy. That’s why it loves the silence.
+
+- Brene Brown

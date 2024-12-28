@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Mihaly Csikszentmihalyi
-description: "Psychologist best known for his work on 'flow', exploring how achieving flow contributes to a balanced and fulfilling life."
+description: "Psychologist known for his research on happiness and optimal experience, he developed the concept of flow, which relates to achieving a balance between challenge and skill."
 subject: "Balance"
 parent: Balance
 permalink: /Balance/authors/Mihaly-Csikszentmihalyi/

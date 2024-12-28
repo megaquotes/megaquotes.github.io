@@ -1,7 +1,7 @@
 ---
 layout: author
 title: CS Lewis
-description: "A British writer and scholar, Lewis is best known for his works on Christian apologetics such as 'Mere Christianity' and 'The Screwtape Letters', where he explores the nature of faith and belief."
+description: "A British writer and theologian known for his works on Christianity, including 'Mere Christianity', where he explores the nature of faith and morality."
 subject: "Faith"
 parent: Faith
 permalink: /Faith/authors/CS-Lewis/

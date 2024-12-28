@@ -1,7 +1,7 @@
 ---
 layout: author
 title: NT Wright
-description: "An English New Testament scholar and theologian known for his writings on faith and the historical figure of Jesus."
+description: "A British New Testament scholar and theologian who has written extensively on the resurrection of Jesus and the nature of Christian faith."
 subject: "Faith"
 parent: Faith
 permalink: /Faith/authors/NT-Wright/

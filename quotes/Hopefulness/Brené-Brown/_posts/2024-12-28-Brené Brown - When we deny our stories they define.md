@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Brené Brown - When we deny our stories they define"
+date: 2024-12-28 12:00:00 -0000
+author: Brené Brown
+quote: "When we deny our stories, they define us. When we own our stories, we get to write the ending."
+subject: Hopefulness
+permalink: /Hopefulness/Brené Brown/Brené Brown - When we deny our stories they define
+---
+
+When we deny our stories, they define us. When we own our stories, we get to write the ending.
+
+- Brené Brown

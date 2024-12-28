@@ -1,7 +1,7 @@
 ---
 layout: author
 title: JK Rowling
-description: "The author of the Harry Potter series, Rowling's work often emphasizes themes of hope, friendship, and the battle against darkness, resonating with readers worldwide."
+description: "The author of the Harry Potter series who has spoken about hope and perseverance in the face of adversity, particularly in her public speeches."
 subject: "Hope"
 parent: Hope
 permalink: /Hope/authors/JK-Rowling/

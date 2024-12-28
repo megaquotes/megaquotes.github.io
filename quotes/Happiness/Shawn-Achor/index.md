@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Shawn Achor
-description: "Author and speaker who focuses on the psychology of happiness and success, known for his book 'The Happiness Advantage'."
+description: "A positive psychology researcher who focuses on the connection between happiness and success, Achor advocates for the importance of happiness in the workplace."
 subject: "Happiness"
 parent: Happiness
 permalink: /Happiness/authors/Shawn-Achor/
