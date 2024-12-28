@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Tony Robbins - Change is inevitable Progress is"
+date: 2024-12-28 12:00:00 -0000
+author: Tony Robbins
+quote: "Change is inevitable. Progress is optional."
+subject: Courageous living
+permalink: /Courageous living/Tony Robbins/Tony Robbins - Change is inevitable Progress is
+---
+
+Change is inevitable. Progress is optional.
+
+- Tony Robbins
