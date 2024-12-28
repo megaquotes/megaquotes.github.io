@@ -16,3 +16,12 @@ collections:
     output: true
     permalink: /authors/:name/
 
+just_the_docs:
+  search:
+    enabled: true
+    token_splitter_regex: '[\s/]+'
+    preprocessors:
+      - 'title'
+      - 'permalink'
+      - 'content'
+

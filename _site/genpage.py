@@ -15,7 +15,8 @@ title: "{title}"
 date: {date_str} 12:00:00 -0000
 author: {author}
 quote: "{quote}"
-permalink: /:categories/:title
+subject: {subject}
+permalink: /{subject}/{author}/{title}
 ---
 
 {quote}
